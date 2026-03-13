@@ -1,5 +1,4 @@
 
-````markdown
 # Secure Prescription Verification & Tracking System
 
 A robust, enterprise-grade system for secure prescription management, verification, and controlled substance tracking. Built with high-security standards, audit compliance, and a modern full-stack architecture.
